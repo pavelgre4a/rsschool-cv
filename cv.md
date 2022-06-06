@@ -53,3 +53,10 @@ checkAge('lapki')
 ### Education
 * **Bachelor, Belarusian National Technical University**
     + Marketing, Management and Entrepreneurship Faculty
+*****
+### Experience
+* Own small business - Manufacture and sale of backpacks
+* Tech support of Yandex Pro and Uber
+*****
+### English
+A2. Requires further study
