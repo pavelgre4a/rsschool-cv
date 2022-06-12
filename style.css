@@ -1,0 +1,136 @@
+* {
+    box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+
+html {
+    scroll-behavior: smooth; 
+  }
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #FFF5EE;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.nav-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    padding-inline-start: 0;
+  }
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #483D8B;
+  }
+
+.main-lists {
+    padding: 0 0 0 25px;
+}
+
+.links {
+    text-decoration: none;
+}
+
+.section-photo {
+    width: 50%;
+}
+
+.section-profile {
+    width: 50%;
+    text-align: left;
+    padding: 6% 0px 0px 3%;
+}
+
+.my-photo {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    vertical-align: middle;
+    float: right;
+}
+
+.section-contacts {
+    width: 33%;
+    padding-left: 2%;
+}
+
+.section-about-me {
+    width: 100%;
+    padding-left: 2%;
+}
+
+.section-soft-skills {
+    width: 33%;
+    padding-left: 2%;
+}
+
+.section-hard-skills {
+    width: 33%;
+    padding-left: 2%;
+}
+
+.section-code-example {
+    width: 100%;
+    padding-left: 2%;
+}
+
+.code {
+    background-color: #FFDEAD;
+    border-radius: 20px;
+}
+
+.section-education {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.section-experience {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.section-my-project {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.section-english {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.rs-logo {
+    width: 150px;
+    height: 70px;
+    vertical-align: middle;
+}
+
